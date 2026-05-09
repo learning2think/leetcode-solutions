@@ -1,6 +1,6 @@
 # LeetCode Biweekly Contest — разборы
 
-Здесь лежат мои разборы задач с контестов leetcode. Для каждой задачи — условие, ход мыслей и финальное решение на Python.
+Здесь лежат мои разборы задач с biweekly контестов. Для каждой задачи — условие, ход мыслей и финальное решение на Python.
 
 ---
 
@@ -19,7 +19,7 @@
 
 | Файл | Задачи | Темы |
 |---|---|---|
-| [Biweekly Contest 182.md](./Biweekly Contest 182.md) | Score Validator, Coherent String, Minimum Generations, Minimum Threshold | симуляция, жадность, BFS, бинпоиск + 0-1 BFS |
+| [Biweekly Contest 182](./Biweekly%20Contest%20182.md) | Score Validator, Coherent String, Minimum Generations, Minimum Threshold | симуляция, жадность, BFS, бинпоиск + 0-1 BFS |
 
 ---
 
