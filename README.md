@@ -19,7 +19,7 @@
 
 | Файл | Задачи | Темы |
 |---|---|---|
-| [biweekly_contest.md](./biweekly_contest.md) | Score Validator, Coherent String, Minimum Generations, Minimum Threshold | симуляция, жадность, BFS, бинпоиск + 0-1 BFS |
+| [Biweekly Contest 182.md](./Biweekly Contest 182.md) | Score Validator, Coherent String, Minimum Generations, Minimum Threshold | симуляция, жадность, BFS, бинпоиск + 0-1 BFS |
 
 ---
 
