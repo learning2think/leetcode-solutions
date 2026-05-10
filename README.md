@@ -1,4 +1,4 @@
-# LeetCode Contest — разборы
+# LeetCode Biweekly Contest — разборы
 
 Здесь лежат мои разборы задач с контестов leetcode. Для каждой задачи — условие, ход мыслей и финальное решение на Python.
 
@@ -20,6 +20,7 @@
 | Файл | Задачи | Темы |
 |---|---|---|
 | [Biweekly Contest 182](./Biweekly%20Contest%20182.md) | Score Validator, Coherent String, Minimum Generations, Minimum Threshold | симуляция, жадность, BFS, бинпоиск + 0-1 BFS |
+| [Weekly Contest 501](./Weekly%20Contest%20501.md) | Concatenate With Reverse, Count Valid Word Occurrences, Minimize Array Sum, Minimum Cost to Buy Apples | симуляция, парсинг строк, решето, Дейкстра |
 
 ---
 
